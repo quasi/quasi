@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @quasi
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Common Lisp
+- 🌱 I program Common Lisp, Python, JS, C
 - 💞️ I’m looking to collaborate on CL Libraries
 - 📫 How to reach me via github
 
