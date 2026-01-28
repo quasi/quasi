@@ -5,7 +5,7 @@
 
 - Blog https://quasilabs.in/blog/
 - Personal Blog https://blog.quasi.in/
-- https://x.com/_quasi
+- X https://x.com/_quasi
 
 ### Common Lisp
 | Repo | |
