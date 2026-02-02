@@ -19,7 +19,7 @@
 ### Agentic
 | Reop ||
 |---|---|
-| [Canon](https://github.com/quasi/canon) | Canonical Specification System. The spec **IS** the system |
+<!-- | [Canon](https://github.com/quasi/canon) | Canonical Specification System. The spec **IS** the system | -->
 | [Agent Council](https://github.com/quasi/agent-council) | Agent Council - A multi-agent deliberation system |
 
 <!---
