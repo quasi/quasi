@@ -10,14 +10,14 @@
 ### Common Lisp
 | Repo | |
 |---|---|
+| [cl-mcp-server](https://github.com/quasi/cl-mcp-server)| Common Lisp REPL SuperPower for Agents |
 | [cl-memcached](https://github.com/quasi/cl-memcached) | Interface to the Memcached in-memory cache |
 | [Pooler](https://github.com/quasi/pooler) | Pooling library with support for distributed pools |
-| [cl-mcp-server](https://github.com/quasi/cl-mcp-server)| REPL Power for Claude (or other agens)|
-| [cl-llm-provider](https://github.com/quasi/cl-llm-provider) | Interface to connect with multiple LLM providers |
+| [cl-llm-provider](https://github.com/quasi/cl-llm-provider) | Connect with multiple LLM providers |
 | [cl-test-hardening](https://github.com/quasi/cl-test-hardening) | Harden you tests - properties, mutations, contracts |
 
 ### Agentic
-| Reop ||
+| Repo ||
 |---|---|
 | [Agent Council](https://github.com/quasi/agent-council) | Agent Council - A multi-agent deliberation system |
 <!-- | [Canon](https://github.com/quasi/canon) | Canonical Specification System. The spec **IS** the system | -->
